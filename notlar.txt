@@ -1,0 +1,2 @@
+admin kullanıcı adı : yavuzhan
+sifre = ASDfgh2580.
