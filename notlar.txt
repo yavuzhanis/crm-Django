@@ -1,2 +1,6 @@
 admin kullanıcı adı : yavuzhan
 sifre = ASDfgh2580.
+Venv Açılımı MacOS =>
+source /Users/yavuzhanis/Desktop/crm-django/venv/bin/activate  => benim dosyalarım için 
+
+Öncelikle Virtual env aktif edin sonra cd crm diyerek projeyi çalıştırabilirsiniz
